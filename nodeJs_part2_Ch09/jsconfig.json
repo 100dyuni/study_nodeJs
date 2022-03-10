@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "noImplicitAny": true,
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "noUncheckedIndexedAccess": true
+    },
+    "include": [
+      //"packages/**/*"
+      "src/**/*"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
