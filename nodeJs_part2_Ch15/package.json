@@ -1,0 +1,23 @@
+{
+  "scripts":{
+    "seq" : "sequelize-cli"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "commander": "^9.0.0",
+    "pg": "^8.7.3",
+    "prompts": "^2.4.2",
+    "sequelize": "^6.17.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
